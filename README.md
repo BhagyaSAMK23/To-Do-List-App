@@ -25,8 +25,8 @@ todo_app/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
+git clone https://github.com/BhagyaSAMK23/To-Do-List-App.git
+cd To-Do-List-App
 ```
 
 ### 2. Run the Program
